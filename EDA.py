@@ -1,0 +1,4 @@
+### CONDUCTING DATA CLEANING AND INTIAL EDA OF GOODREADS DATA
+#%%
+import pandas as pd
+# %%
